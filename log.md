@@ -1,30 +1,22 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: June 1, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: learnend more about flex-box and coded a small project
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I was struggling some times in placing elements with css but it became easier when I finally understood flex-box
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: June 2, Tuesday 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: Started a challenge from front-end mentor and finished coding a landing page
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts**: I feel its a bit hard to write clean css although iam getting better at it alittle bit by time
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 2: June 3, Wednesday
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: fixed some css in the website and cleaned my code as i could and made the landing page responsive
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I feel iam getting more control over css and trying to write code as clean as possible but sometimes i just get afraid of writimg bad messy code but today i feel better.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+[My landing page(Fylo)](https://fylo-dark-mode-challenge-41x6x4332.now.sh)
