@@ -14,4 +14,4 @@ started coding a landing page from frontenmentor
 Fixed some css in the landing page and made it responsive. [project here](https://fylo-dark-mode-challenge-41x6x4332.now.sh)
 
 ### R1D4
-coded another project: [Clipboard landing page.](https://fylo-dark-mode-challenge-41x6x4332.now.sh) using flexbox and SASS
+coded another project: [Clipboard landing page.](https://clipboard-mu.now.sh/) using flexbox and SASS
