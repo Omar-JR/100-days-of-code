@@ -20,3 +20,12 @@
 
 **Link(s) to work**
 [My landing page(Fylo)](https://fylo-dark-mode-challenge-41x6x4332.now.sh)
+
+### Day 3: June 4, Thursday
+
+**Today's Progress**: Finished coding another landing page from Front-end mentor
+
+**Thoughts** I feel i have a problem with clean CSS code i try to keep it as ceal and organized as possible but it gets out of control sometimes but will never giveup and will learn new techniques
+
+**Link(s) to work**
+[My landing page(Clipboard)](https://clipboard-mu.now.sh)
