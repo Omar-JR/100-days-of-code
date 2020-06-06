@@ -29,3 +29,24 @@
 
 **Link(s) to work**
 [My landing page(Clipboard)](https://clipboard-mu.now.sh)
+
+### Day 4: June 5, Friday
+
+**Today's Progress**: Made the landing page more responsive and mobile friendly and played around with css grid
+
+**Thoughts** I feel iam making progress by time and trying my best to be more orgainzed 
+
+**Link(s) to work**
+[My landing page(Clipboard)](https://clipboard-mu.now.sh)
+
+### Day 5: June 6, Tuesday
+
+**Today's Progress**: Didn't really finish much but started a new challenge and structured its html and it will be finished by tomorrow
+
+**Thoughts**: Not much just relaxing a little bit today.
+
+
+**Link(s) to work**
+[Link to repo](https://github.com/Omar-JR/tracking-intro-component)
+
+
