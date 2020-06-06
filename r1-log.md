@@ -15,3 +15,9 @@ Fixed some css in the landing page and made it responsive. [project here](https:
 
 ### R1D4
 coded another project: [Clipboard landing page.](https://clipboard-mu.now.sh/) using flexbox and SASS
+
+### R1D5
+Made [Clipboard landing page](https://clipboard-mu.now.sh/) more responsive and mobile friendly
+
+### R1D6
+Not much today but startted a [new challenge](https://www.frontendmentor.io/challenges/project-tracking-intro-component-5d289097500fcb331a67d80e) and structured the html and added some sass too it will be finished by tomorrw
